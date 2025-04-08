@@ -10,6 +10,7 @@ Für die Erhebung der Terminalstandorte wurde die Karte der Studiengesellschaft 
 - Weitere Umschlaganlage
 - Anlage im Bau / projektiert
 - ~~Wasserstraße / Straße~~
+- ~~Containerdepot~~
 
 **KV-Terminal Isochronendarstellung Deutschland:**
 

@@ -33,3 +33,7 @@ https://martinhoblisch.github.io/KV-Terminals-Public/Europa_Ist.html
 
 - Darstellung der Isochronen für bestehende und geplante Terminals
 https://martinhoblisch.github.io/KV-Terminals-Public/Europa_Soll.html
+
+<p align="center">
+  <img src="images/Abdeckung_Bundesländer_ist.png" alt="Abdeckung_Bundesländer" width="400"/>
+</p>

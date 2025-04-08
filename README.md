@@ -28,6 +28,10 @@ https://martinhoblisch.github.io/KV-Terminals-Public/NUTS3_ist.html
 - NUTS-3-Darstellung aller bestehenden und geplanten Terminals
 https://martinhoblisch.github.io/KV-Terminals-Public/NUTS3_soll.html
 
+<p align="center">
+  <img src="images/Abdeckung_Bundesländer_ist.png" alt="Abdeckung_Bundesländer" width="600"/>
+</p>
+
 **KV-Terminal Isochronendarstellung Europa:**
 
 - Darstellung der Isochronen für bestehende Terminals
@@ -35,7 +39,3 @@ https://martinhoblisch.github.io/KV-Terminals-Public/Europa_Ist.html
 
 - Darstellung der Isochronen für bestehende und geplante Terminals
 https://martinhoblisch.github.io/KV-Terminals-Public/Europa_Soll.html
-
-<p align="center">
-  <img src="images/Abdeckung_Bundesländer_ist.png" alt="Abdeckung_Bundesländer" width="400"/>
-</p>

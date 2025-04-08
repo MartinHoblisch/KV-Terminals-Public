@@ -1,3 +1,5 @@
+⚠️ **Hinweis:** Diese README ist noch nicht final. Die Inhalte werden aktuell überarbeitet.
+
 # Analyse der räumlichen Abdeckung von KV-Terminals in Deutschland  
 **im Kontext der Mautdaten des Projekts VerMoL**
  

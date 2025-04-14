@@ -43,4 +43,5 @@ https://martinhoblisch.github.io/KV-Terminals-Public/Europa_Soll.html
 
 **In Bearbeitung:**
 
-https://martinhoblisch.github.io/KV-Terminals-Public/Ist_industrie.html
+- https://martinhoblisch.github.io/KV-Terminals-Public/Ist_industrie.html
+- https://martinhoblisch.github.io/KV-Terminals-Public/Ist_industrie_union.html

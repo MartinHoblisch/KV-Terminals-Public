@@ -40,3 +40,7 @@ https://martinhoblisch.github.io/KV-Terminals-Public/Europa_Ist.html
 
 - Darstellung der Isochronen für bestehende und geplante Terminals
 https://martinhoblisch.github.io/KV-Terminals-Public/Europa_Soll.html
+
+**In Bearbeitung:**
+
+https://martinhoblisch.github.io/KV-Terminals-Public/Ist_industrie.html
